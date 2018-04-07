@@ -1,0 +1,34 @@
+{
+  "name": "ls",
+  "version": "1.0.0",
+  "description": "seed project for threejs",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/where1412/LSeed.git"
+  },
+  "keywords": [
+    "seed",
+    "threejs",
+    "smartlxx"
+  ],
+  "author": "auhuaer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/where1412/LSeed/issues"
+  },
+  "homepage": "https://github.com/where1412/LSeed#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-uglify": "^3.0.0",
+    "gulp-watch": "^5.0.0",
+    "gulp-webpack": "^1.5.0",
+    "webpack-stream": "^4.0.3"
+  }
+}
