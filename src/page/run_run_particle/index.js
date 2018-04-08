@@ -363,5 +363,6 @@ function mess (arr) {
     let newArr = []
     arr.sort(function(){ return 0.5 - Math.random()})
 }
+
 init()
 
